@@ -1,5 +1,5 @@
 import {React, useState} from 'react';
-import {Alert, Modal, Pressable, ScrollView, Text, StyleSheet, View, Button, StatusBar, TextInput } from 'react-native';
+import {Alert, Modal, Pressable, ScrollView, Text, StyleSheet, View, Button, StatusBar, TextInput, Image } from 'react-native';
 import arrow from '../assets/arrow.png'
 
 const Pemesanan = ({ navigation, route }) => {

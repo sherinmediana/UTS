@@ -1,5 +1,5 @@
 import {React} from 'react';
-import {ScrollView, Text, StyleSheet, View, Button, StatusBar} from 'react-native';
+import {ScrollView, Text, StyleSheet, View, Button, StatusBar, Image} from 'react-native';
 import arrow from '../assets/arrow.png'
 
 const Detail = ({ navigation, route }) => {
